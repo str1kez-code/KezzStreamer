@@ -1,0 +1,31 @@
+name: KezStreamer
+version: '1.0'
+main: kez.politempire.kezStreamer.KezStreamer
+api-version: '1.21'
+author: Kez
+
+commands:
+  startstream:
+    description: Начать стрим
+    usage: /startstream
+    permission: kezstreamer.stream
+  stopstream:
+    description: Остановить стрим
+    usage: /stopstream
+    permission: kezstreamer.stream
+  setstreamlink:
+    description: Установить ссылку на стрим
+    usage: /setstreamlink <ссылка>
+    permission: kezstreamer.stream
+  media:
+    description: Показать активные стримы
+    usage: /media
+    permission: kezstreamer.media
+
+permissions:
+  kezstreamer.stream:
+    description: Разрешает управлять стримами
+    default: op
+  kezstreamer.media:
+    description: Разрешает просматривать активные стримы
+    default: true
