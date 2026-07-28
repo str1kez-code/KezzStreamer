@@ -1,7 +1,8 @@
 # KezzStreamer
-simplest stream logic for minecraft servers
+## simplest stream logic for minecraft servers
+### Plugin was power at Paper 1.21.1 Minecraft Server
 
-## CONFIG
+### CONFIG
 ```
 # Настройки плагина KezStreamer
 settings:
