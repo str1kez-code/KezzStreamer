@@ -2,6 +2,9 @@
 ## simplest stream logic for minecraft servers
 ### Plugin was power at Paper 1.21.1 Minecraft Server
 
+<img width="656" height="94" alt="image" src="https://github.com/user-attachments/assets/7dd9ff4d-7a91-4ace-a5fd-6861f193f70a" />
+
+
 ### CONFIG
 ```
 # Настройки плагина KezStreamer
